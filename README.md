@@ -5,6 +5,9 @@ This project is about Data visualization. The data is download from https://data
 ## Result
 
 ![](https://i.imgur.com/g2x7UMH.png)
+
 ![](https://i.imgur.com/uXsMAL6.png)
+
 ![](https://i.imgur.com/uOflA7W.png)
+
 ![](https://i.imgur.com/xF5BXMv.png)
